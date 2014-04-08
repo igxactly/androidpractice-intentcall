@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntentCallTest.iml" filepath="$PROJECT_DIR$/IntentCallTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic20140407/basic20140407.iml" filepath="$PROJECT_DIR$/basic20140407/basic20140407.iml" />
+    </modules>
+  </component>
+</project>
+
